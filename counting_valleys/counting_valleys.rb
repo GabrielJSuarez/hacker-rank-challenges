@@ -16,3 +16,31 @@ def countingValleys(_steps, path)
   end
   valleys_traversed
 end
+
+
+
+
+
+
+
+arr = [1, 2, 3]
+
+arr.each do |element|
+  if element > 2
+    puts element
+  end
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
